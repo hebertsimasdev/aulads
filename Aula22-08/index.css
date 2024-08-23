@@ -1,0 +1,27 @@
+body {
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    background: url('frog.gif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+button{
+    font-size: small
+}
+
+.bEnviar:hover{
+    background-color: green;
+}
+
+.bLimpar:hover{
+    background-color: red;
+}
+
+.name{
+    color: black;
+}
