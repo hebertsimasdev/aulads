@@ -12,6 +12,7 @@ body {
 }
 button{
     font-size: small
+    
 }
 
 .bEnviar:hover{
@@ -24,4 +25,8 @@ button{
 
 .name{
     color: black;
+}
+input{
+    border-radius: 100px;
+
 }
